@@ -10,4 +10,4 @@ Create one pseudonym for each voter in voterlist:
 * Prove it as well as possible during the ceremony
 * Blackbox list of pseudonyms until the end of election
 
-Similar to [Uduloor](https://github.com/infoaed/uduloor) and process described in a [write-up](https://gafgaf.infoaed.ee/en/posts/pseudonymous-voting-in-wikimedia/)
+Similar to [Uduloor](https://github.com/infoaed/uduloor) and process described in a [write-up](https://gafgaf.infoaed.ee/en/posts/pseudonymous-voting-in-wikimedia/).
