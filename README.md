@@ -1,5 +1,7 @@
 # Pseudovote-CDOC
 
+![Creating pseudonyms for all ~1 million voters in Estonia](ima_e73c52f_e.jpeg)
+
 Create one pseudonym for each voter in voterlist:
 
 * Simple Python code for generating pseudonyms
