@@ -1,4 +1,4 @@
-# Exitvote-ceremony
+# Pseudovote-CDOC
 
 Create one pseudonym for each voter in voterlist:
 
