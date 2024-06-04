@@ -2,11 +2,17 @@
 
 ![Creating pseudonyms for all ~1 million voters in Estonia](ima_e73c52f_e.jpeg)
 
-On clean [Ubuntu 24.04](https://releases.ubuntu.com/noble/) you need:
+On clean [Ubuntu 24.04](https://releases.ubuntu.com/noble/) you can run the ceremony by:
 
 ```
-sudo apt install python3-m2crypto python3-pyasn1 python3-pycryptodome python3-progressbar python3-fpdf
+sudo apt install git
+sudo apt install python3-m2crypto python3-pyasn1 python3-pycryptodome python3-ldap python3-fpdf python3-progressbar
+git clone git@github.com:infoaed/pseudovote-cdoc.git
+cd pseudovote-cdoc
+./ceremony.py
 ```
+
+This will end with containers in `con` directory and `quarantine_01234567890.cdoc` in root.
 
 During the ceremony following commands might be of use:
 
