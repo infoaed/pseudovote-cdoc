@@ -15,6 +15,7 @@ ls -1 con | wc -l
 rm -r con && mkdir con
 sha256sum voterlist.txt
 du -h con
+ls | xargs sha256sum
 ```
 
 Create one pseudonym for each voter in voterlist:
