@@ -6,7 +6,7 @@ On clean [Ubuntu 24.04](https://releases.ubuntu.com/noble/) you can run the cere
 
 ```
 sudo apt install git
-sudo apt install python3-m2crypto python3-pyasn1 python3-pycryptodome python3-ldap python3-fpdf python3-progressbar
+sudo apt install python3-m2crypto python3-pyasn1 python3-pycryptodome python3-progressbar python3-fpdf python3-ldap
 git clone https://github.com/infoaed/pseudovote-cdoc.git
 cd pseudovote-cdoc
 ./ceremony.py
